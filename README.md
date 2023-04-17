@@ -1,6 +1,14 @@
 本项目制作了基于像素的遥感影像分类系统
 主要使用了非监督分类＋监督分类进行分类，软件制作基于QT框架进行
 
+软件页面：
+
+![image](https://user-images.githubusercontent.com/87323344/232578532-26e0fe3b-4da4-4cd1-909a-a368e1e00438.png)
+
+分类效果：
+
+![image](https://user-images.githubusercontent.com/87323344/232575194-546e9643-8e9f-4840-9e83-d7e453628ed7.png)
+
 主要系统介绍如下:
 
 ![image](https://user-images.githubusercontent.com/87323344/232573995-ec34bb23-ca95-4a45-8f0b-cc480adf9fe2.png)
@@ -40,6 +48,6 @@
 
 ![image](https://user-images.githubusercontent.com/87323344/232575153-6f88aee2-d962-439e-9183-7286d82b25d7.png)
 
-![image](https://user-images.githubusercontent.com/87323344/232575194-546e9643-8e9f-4840-9e83-d7e453628ed7.png)
+
 
 整体工作来自本人以及绿、廖、朱四人（虚拟现实组）
