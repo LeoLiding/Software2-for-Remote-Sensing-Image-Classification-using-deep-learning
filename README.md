@@ -22,7 +22,10 @@
 
 预训练权重来自OpenMMLab，深度学习部分使用了mmseg团队的结果
 
-页面展示如下：
+
+
+软件效果展示如下：
+
 
 ![image](https://user-images.githubusercontent.com/87323344/232574973-6cf7aa82-b419-4605-8c0b-985a21fe90b3.png)
 
