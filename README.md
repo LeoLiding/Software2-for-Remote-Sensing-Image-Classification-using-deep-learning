@@ -5,6 +5,13 @@
 
 ![image](https://user-images.githubusercontent.com/87323344/232573995-ec34bb23-ca95-4a45-8f0b-cc480adf9fe2.png)
 
+其中监督分类主要使用：
+
+![image](https://user-images.githubusercontent.com/87323344/232575934-6cc6b317-b577-4e48-8756-c70ee2387797.png)
+
+![image](https://user-images.githubusercontent.com/87323344/232575962-d60924e5-e179-4be4-98f8-1a79b47ce768.png)
+
+
 其中监督分类主要采取FCN架构，包括pspnet/deeplabv3plus/resnet/HRNet等
 
 ![image](https://user-images.githubusercontent.com/87323344/232574827-900fa159-47dc-406e-94f8-e669e99a1b12.png)
